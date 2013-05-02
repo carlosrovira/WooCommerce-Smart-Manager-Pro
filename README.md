@@ -1,0 +1,2 @@
+WooCommerce-Smart-Manager-Pro
+=============================
